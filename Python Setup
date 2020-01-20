@@ -1,0 +1,20 @@
+Follow these steps to set up python:
+
+1.	Download python.exe and add python.exe and pip.exe to your path.
+Important Note:
+This step only takes a few minutes and you only ever have to do it once for your computer, but it requires updating system variables which can cause problems if done incorrectly. 
+If you are at all unsure about this step, ask someone who knows what they are doing to show you how. 
+
+2.	 Open a terminal window. A terminal window is simply a window that you can use to type commands directly into the computer in order for it to respond.  
+You will open the terminal window a bit differently depending on what type of computer you are using.
+On Windows:
+•	Open File Explorer, and navigate to the direct you your code files are located in. 
+•	Holding down the shift key and pressing the right mouse button at the same time will open a menu. Select Open PowerShell Window here. 
+On Mac:
+•	Press Ctrl + Alt + T
+•	You will then have to navigate to the correct directory using dir (or ls) to tell you all the files and folders in the directory and cd directoryName to do down one directory, or cd .. to go up one directory.
+On Linux:
+•	Press Ctrl + Alt + T in Ubuntu or Alt + F2 in gnome terminal
+•	You will then have to navigate to the correct directory using dir (or ls) to tell you all the files and folders in the directory and cd directoryName to do down one directory, or cd .. to go up one directory.
+
+3.	Run any of the programs in the Ch1 folder here on GIT.
