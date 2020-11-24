@@ -1,6 +1,6 @@
 Follow these steps to set up python:
 
-1.	Download python.exe and add python.exe and pip.exe to your path.
+1.	Download python.exe and add python.exe and pip.exe to your path. The examples in the book are using Python 3.8 (64-bit)
 Important Note:
 This step only takes a few minutes and you only ever have to do it once for your computer, but it requires updating system variables which can cause problems if done incorrectly. 
 If you are at all unsure about this step, ask someone who knows what they are doing to show you how. 
